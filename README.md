@@ -2,6 +2,10 @@
 this is the bob's game series and all the games
 from the original bob's game series
 
+# bob's game 4
+bob's game 4 is soon to release but has no exact drop date check in about a waak for an exact release date!
+just so you know its comming soon ;)
+
 ## what is new in this repository uppdate?
 this repostitory has diffrent batch files with other batch code that makes it harder to revers engeneer.
 the other bob's game repository has been set to private so it i un-accessable, and the code in that repository is only accessable for me.
